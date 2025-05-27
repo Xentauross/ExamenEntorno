@@ -6,6 +6,7 @@ public class menu {
 		// TODO Auto-generated method stub
 
 		System.out.println("version 1.0_B");
+		System.out.println("versión 1.1_B ");
 
 	}
 

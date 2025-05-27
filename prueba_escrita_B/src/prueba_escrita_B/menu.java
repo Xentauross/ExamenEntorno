@@ -8,6 +8,7 @@ public class menu {
 		System.out.println("version 1.0_B");
 		System.out.println("versión 1.1_B ");
 		System.out.println("version 1.2_B");
+		System.out.println("version 2.0_B");
 
 	}
 
